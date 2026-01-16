@@ -3,7 +3,7 @@
 Просто серваки для обхода белых списков и обычный VPN для всего остального.
 
 ### Ссылка для приложения:
-`https://raw.githubusercontent.com/DarkFirexs/-VPN/refs/heads/main/Whitelist%20%7C%20VPN`
+`https://raw.githubusercontent.com/DarkFirexs/Whitelist-bypass_VPN/refs/heads/main/Whitelist%20%7C%20VPN`
 
 ---
 
