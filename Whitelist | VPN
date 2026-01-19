@@ -42,4 +42,4 @@ vless://f3b47775-edd2-42f8-94ac-9d315ae5463d@83.219.97.166:30297?security=realit
 vless://d2ba4d56-a5b5-5541-9b66-8a2ed8004545@212.111.80.174:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=IFoUdZy8j2MCk7C19o9bE4bVO3nOKP0CFlQcfLPcewg&fp=chrome&type=xhttp&sni=www.ozon.ru&sid=124e671211#🇳🇱Нидерланды
 vless://12345678-1234-1234-1234-123456789123@195.85.23.61:2096?path=%2Fsnippets&security=tls&encryption=none&host=vless.hubp.de&type=ws&sni=vless.hubp.de#🇨🇿Чехия
 vless://12345678-1234-1234-1234-123456789123@164.38.155.61:2096?path=%2Fsnippets&security=tls&encryption=none&host=vless.hubp.de&type=ws&sni=vless.hubp.de#🇬🇧Великобритания
-vless://7005f499-036f-4570-a2a1-29761cfbbd9e@196.245.238.34:443?security=reality&encryption=none&pbk=THd83pRAiz68QKKNCzCdj3hvVq9Wy7NIFeIk1WjRJ1c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=desrv.fasti.win&sid=15cdd4ff88310cf0#🇦🇹Австрия
+
